@@ -1,0 +1,4 @@
+[
+{"name": "csv_init", "time": "2000-01-01 00:00:00", "status": "init_success"},
+{"name": "data.csv", "time": "2019-04-02 22:48:44", "status": "success", "invoice_id": 378},
+{"name": "data.csv", "time": "2019-04-02 22:49:32", "status": "success", "invoice_id": 379}]
